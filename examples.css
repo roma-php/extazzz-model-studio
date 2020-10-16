@@ -108,7 +108,7 @@ p{
 
 .footer{
 	position: absolute;
-	bottom: 5%;
+	top: 50%;
 	left: 45%;
 }
 
@@ -130,7 +130,8 @@ p{
 	color: #8c8c8c;
     position: absolute;
     top: 95%;
-    left: 0;
+	left: 0;
+	cursor: pointer;
 
 }
 
@@ -152,7 +153,7 @@ p{
 
 
 	.footer{
-left: 39%;
+left: 30%;
 	}
 
 	
