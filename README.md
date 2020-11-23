@@ -1,3 +1,3 @@
 # extazzz-model-studio
 
-site: https://exz-models.web.app/
+Site: https://exz-models.web.app/
